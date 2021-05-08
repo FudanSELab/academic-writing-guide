@@ -88,7 +88,16 @@
  - How to Write and Publish a Scientific Paper [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/How_to_Write_and_Publish_a_Scientific_Paper.pdf)
  - How to Write Good a Scientific Paper [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/how-to-write-a-good-scirentific-paper.pdf)
  - Editing Your Thesis [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/Editing-Your-Thesis.pdf)
- - How to write a good review?  [公众号](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/writing-course.pdf)
-   
+ - How to write a good review? - CVPR 2020 Tutorial [公众号](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q), [网页](https://zhuanlan.zhihu.com/p/156994751), [pdf](https://sites.google.com/view/making-reviews-great-again/)
+ - How to write a good rebuttal? - CVPR 2020 Tutorial [pdf](https://drive.google.com/file/d/1V8V__zQYCOskD1y1-9L-UWgNDtBHGJ9t/view)
+ - How to write a good paper? - CVPR 2020 Tutorial [pdf](https://drive.google.com/file/d/1sE4ZCHkU65J6ZFjOK4dWGIiuPygkM6ZW/view)
+ - How are reviews used in the decision process? - CVPR 2020 Tutorial [pdf](https://drive.google.com/file/d/1OEaiHnGi8eKvPQ6HS8Trb_oMKV600p6o/view) [pdf](https://drive.google.com/file/d/1N6BHIOR51R5mcwQ7Qsgv2tpGaV_rfXrF/view)
+ - Writing Tips for PhD Theses, 博士论文写作技巧 [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/phd-writing-talk.pdf)
+ - 综述论文的六个写作模版 [公众号](https://mp.weixin.qq.com/s/Zw-L_RRKPO17mFJqklKNTw), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/survey-templates.pdf)
+ - 国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情 [公众号](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/how-to-get-best-paper.pdf)
+ - 保持高效论文写作的10个原则！ [公众号](https://mp.weixin.qq.com/s/Xs9OrDPu9B8V0SMkwmJZwQ), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/10-tips-for-writing-paper.pdf)
+ - 【人大赵鑫老师】如何以初学者角度写好一篇国际学术论文？,很清楚详细,推荐 [公众号](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/write-an-international-academic-paper-from-a-beginner-perspective.pdf)
+
 ## 其他资源链接集合
+ - https://sites.google.com/view/making-reviews-great-again/
  - [PaperWriting](https://github.com/wangdongdut/PaperWriting),一个别人的关于学术写作的资源收集

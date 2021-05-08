@@ -88,7 +88,7 @@
  - How to Write and Publish a Scientific Paper [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/How_to_Write_and_Publish_a_Scientific_Paper.pdf)
  - How to Write Good a Scientific Paper [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/how-to-write-a-good-scirentific-paper.pdf)
  - Editing Your Thesis [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/Editing-Your-Thesis.pdf)
-
-
- - 厦门大学林子雨博士的报告《论文是怎样炼成的》，共125页ppt，[公众号](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/linziyu-how-to-do-research-2011.pdf)
- - 北大读博手记——怎样完成自己的博士生涯 [公众号](https://mp.weixin.qq.com/s/VEIbVimS-fTyPtDqxl7tag), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/How-to-complete-your-PhD-career.pdf)
+ - How to write a good review?  [公众号](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/writing-course.pdf)
+   
+## 其他资源链接集合
+ - [PaperWriting](https://github.com/wangdongdut/PaperWriting),一个别人的关于学术写作的资源收集

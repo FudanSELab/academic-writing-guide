@@ -7,6 +7,7 @@
   - [正文](#正文)
   - [摘要](#摘要)
   - [参考文献](#参考文献)
+- [资源教程](#资源教程)
 
 ## Check List
 
@@ -75,3 +76,8 @@
  - 参考文献尽量从统一来源获取，英文的dblp（dblp没有就去谷歌学术），中文的知网。
  - 参考文献的格式要求是否和模板要求一致
  - 检查引用是否存在重复的参考文献的情况
+
+# 资源教程
+ - 周志华教授：如何做研究与写论文？,[公众号](https://mp.weixin.qq.com/s/01ciF3uNKAMXWML2EeYwvQ),[pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/research_and_paper_zhou_zhihua_2007_ppt.pdf)
+ 
+

@@ -2,7 +2,7 @@
  一些关于写论文的教程,防止犯一些低级错误
 
 ## 内容
-- [Check List](#check list)
+- [Check List](#check-list)
   - [图表](#图表)
   - [正文](#正文)
   - [摘要](#摘要)

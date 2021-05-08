@@ -8,6 +8,8 @@
   - [摘要](#摘要)
   - [参考文献](#参考文献)
 - [资源教程](#资源教程)
+- [其他资源链接集合](#其他资源链接集合)
+
 
 ## Check List
 
@@ -99,5 +101,4 @@
  - 【人大赵鑫老师】如何以初学者角度写好一篇国际学术论文？,很清楚详细,推荐 [公众号](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/write-an-international-academic-paper-from-a-beginner-perspective.pdf)
 
 ## 其他资源链接集合
- - https://sites.google.com/view/making-reviews-great-again/
  - [PaperWriting](https://github.com/wangdongdut/PaperWriting),一个别人的关于学术写作的资源收集

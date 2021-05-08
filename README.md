@@ -81,3 +81,10 @@
  - 周志华教授：如何做研究与写论文？,[公众号](https://mp.weixin.qq.com/s/01ciF3uNKAMXWML2EeYwvQ), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/research_and_paper_zhou_zhihua_2007_ppt.pdf)
  - 厦门大学林子雨博士的报告《论文是怎样炼成的》，共125页ppt，[公众号](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg), [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/linziyu-how-to-do-research-2011.pdf)
  - 北大读博手记——怎样完成自己的博士生涯 [公众号](https://mp.weixin.qq.com/s/VEIbVimS-fTyPtDqxl7tag), [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/How-to-complete-your-PhD-career.pdf)
+ - 科研论文撰写策略 [公众号](https://mp.weixin.qq.com/s/u8pCkdHKzSQZglB2eLNZVA), [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/Research-paper-writing-strategy.pdf)
+ - 搞科研必须了解的五十个学术网站 [公众号](https://mp.weixin.qq.com/s/qnRRzoV-F1Uh0uSyocjsjg), [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/research-websites.pdf)
+ - 学术论文投稿与返修（Rebuttal）分享 [公众号](https://mp.weixin.qq.com/s/DWRIImmUmqbNprMzcFJD2g), [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/how-to-Rebuttal.pdf)
+ - 写作课堂（一） [公众号](https://mp.weixin.qq.com/s/lpyH-BAOUX9trfi4MYR8rg), [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/writing-course.pdf)
+ - How to Write and Publish a Scientific Paper [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/How_to_Write_and_Publish_a_Scientific_Paper.pdf)
+ - How to Write and Publish a Scientific Paper [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/how-to-write-a-good-scirentific-paper.pdf)
+

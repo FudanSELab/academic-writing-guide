@@ -79,5 +79,5 @@
 
 # 资源教程
  - 周志华教授：如何做研究与写论文？,[公众号](https://mp.weixin.qq.com/s/01ciF3uNKAMXWML2EeYwvQ), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/research_and_paper_zhou_zhihua_2007_ppt.pdf)
- - 厦门大学林子雨博士的报告《论文是怎样炼成的》，共125页ppt，[公众号](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg), [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/linziyu-how-to-do-research-2011.pdf)
- - 北大读博手记——怎样完成自己的博士生涯 [公众号](https://mp.weixin.qq.com/s/VEIbVimS-fTyPtDqxl7tag), [pdf][pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/How-to-complete-your-PhD-career.pdf)
+ - 厦门大学林子雨博士的报告《论文是怎样炼成的》，共125页ppt，[公众号](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/linziyu-how-to-do-research-2011.pdf)
+ - 北大读博手记——怎样完成自己的博士生涯 [公众号](https://mp.weixin.qq.com/s/VEIbVimS-fTyPtDqxl7tag), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/How-to-complete-your-PhD-career.pdf)

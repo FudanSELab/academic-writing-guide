@@ -88,6 +88,11 @@
  - 检查引用是否存在重复的参考文献的情况
 
 # 资源教程
+
+## 视频教程
+ - [软件工程领域论文写作套路](https://github.com/stan6/se-paper/blob/main/README.md),一个老师录的两个视频，跟学生分享一些写SE文章的套路，希望学生写作能有所改进(由于有国际生，视频是英语的)
+ 
+## 文字教程
  - 周志华教授：如何做研究与写论文？,[公众号](https://mp.weixin.qq.com/s/01ciF3uNKAMXWML2EeYwvQ), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/research_and_paper_zhou_zhihua_2007_ppt.pdf)
  - 厦门大学林子雨博士的报告《论文是怎样炼成的》，共125页ppt，[公众号](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/linziyu-how-to-do-research-2011.pdf)
  - 北大读博手记——怎样完成自己的博士生涯 [公众号](https://mp.weixin.qq.com/s/VEIbVimS-fTyPtDqxl7tag), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/How-to-complete-your-PhD-career.pdf)

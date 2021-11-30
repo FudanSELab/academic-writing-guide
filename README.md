@@ -91,6 +91,8 @@
 
 ## 视频教程
  - [软件工程领域论文写作套路](https://github.com/stan6/se-paper/blob/main/README.md),一个老师录的两个视频，跟学生分享一些写SE文章的套路，希望学生写作能有所改进(由于有国际生，视频是英语的)
+ - [Leadership Lab-- 芝加哥大学科研方法课 全集](https://www.bilibili.com/video/BV1zg4y1q7GT)
+ - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.bilibili.com/video/BV1wz4y1o7UW), https://www.youtube.com/watch?v=vtIzMaLkCaM
  
 ## 文字教程
  - 周志华教授：如何做研究与写论文？,[公众号](https://mp.weixin.qq.com/s/01ciF3uNKAMXWML2EeYwvQ), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/research_and_paper_zhou_zhihua_2007_ppt.pdf)
@@ -112,6 +114,15 @@
  - 国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情 [公众号](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/how-to-get-best-paper.pdf)
  - 保持高效论文写作的10个原则！ [公众号](https://mp.weixin.qq.com/s/Xs9OrDPu9B8V0SMkwmJZwQ), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/10-tips-for-writing-paper.pdf)
  - 【人大赵鑫老师】如何以初学者角度写好一篇国际学术论文？,很清楚详细,推荐 [公众号](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/write-an-international-academic-paper-from-a-beginner-perspective.pdf)
+ - 吐血整理：论文写作中注意这些细节，能显著提升成稿质量,[公众号](https://mp.weixin.qq.com/s/QoZbJxeRcrqZC6rV06zmRg) 
+ - 机器翻译学术论文写作方法和技巧：清华大学刘洋老师在CWMT-2014上做的经典报告，以机器翻译的视角，从选题开始，给大家讲解了论文写作的方法和技巧。[PPT](
+http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+ - 如何端到端地写科研论文?：复旦大学的邱锡鹏老师在CCL-2018的student workshop上做的报告。[PPT](https://xpqiu.github.io/slides/20181019-PaperWriting.pdf)
+ - 论文写作的易读性原则：刘一佳同学， 阿里巴巴达摩院的阿里星大神，在NLPCC-2018上做的报告。[PPT](http://yjliu.net/cv/res/2018-08-19-nlpcc-sws.compressed.pdf)
+ - 哥伦比亚大学的Henning Schulzrinne老师的一些学术随笔，其中也有一个论文写作的collection。[网址](http://www.cs.columbia.edu/~hgs/etc/writing.html)
+ - 哈佛大学的Whitesides老师从写提纲的角度切入讲解如何撰写学术论文。[链接](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767)
+ - 如何让摘要吸引人？Nature论文摘要模板值得收藏。[链接](https://zhuanlan.zhihu.com/p/158574876)
+ - 支付宝研究员王益的建议：“学好语文，才能写好代码”（很多观点对写论文同样适用）[链接](https://zhuanlan.zhihu.com/p/157243326)
 
 ## 其他资源链接集合
  - [PaperWriting](https://github.com/wangdongdut/PaperWriting),一个别人的关于学术写作的资源收集

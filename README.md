@@ -92,7 +92,7 @@
 ## 视频教程
  - [软件工程领域论文写作套路](https://github.com/stan6/se-paper/blob/main/README.md),一个老师录的两个视频，跟学生分享一些写SE文章的套路，希望学生写作能有所改进(由于有国际生，视频是英语的)
  - [Leadership Lab-- 芝加哥大学科研方法课 全集](https://www.bilibili.com/video/BV1zg4y1q7GT)
- - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.bilibili.com/video/BV1wz4y1o7UW), https://www.youtube.com/watch?v=vtIzMaLkCaM
+ - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.bilibili.com/video/BV1wz4y1o7UW), [youtube有字幕版本](https://www.youtube.com/watch?v=vtIzMaLkCaM&list=RDLVvtIzMaLkCaM&start_radio=1)， 很风趣幽默
  
 ## 文字教程
  - 周志华教授：如何做研究与写论文？,[公众号](https://mp.weixin.qq.com/s/01ciF3uNKAMXWML2EeYwvQ), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/research_and_paper_zhou_zhihua_2007_ppt.pdf)

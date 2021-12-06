@@ -90,11 +90,14 @@
 # 资源教程
 
 ## 视频教程
- - [软件工程领域论文写作套路](https://github.com/stan6/se-paper/blob/main/README.md),一个老师录的两个视频，跟学生分享一些写SE文章的套路，希望学生写作能有所改进(由于有国际生，视频是英语的)
+- 清华大学王翔宇论文写作公开课-工科论文写作
+  讲得非常详细和基础，推荐新手阅读
+  - [论文文献检索、阅读、引用](https://www.bilibili.com/s/video/BV137411j78R)
+
+- [软件工程领域论文写作套路](https://github.com/stan6/se-paper/blob/main/README.md),一个老师录的两个视频，跟学生分享一些写SE文章的套路，希望学生写作能有所改进(由于有国际生，视频是英语的)
  - [Leadership Lab-- 芝加哥大学科研方法课 全集](https://www.bilibili.com/video/BV1zg4y1q7GT)
  - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.bilibili.com/video/BV1wz4y1o7UW), [youtube有字幕版本](https://www.youtube.com/watch?v=vtIzMaLkCaM&list=RDLVvtIzMaLkCaM&start_radio=1)， 很风趣幽默
  - [知乎论文写作视频合集](https://zhuanlan.zhihu.com/p/92297191)
-   -  [【公开课】工科学术论文写作指导-王翔宇 - BiliBili](https://www.bilibili.com/s/video/BV137411j78R)
    -  [斯坦福SCI论文写作课程(Writing in the Sciences)-中英字幕
 ](https://www.bilibili.com/video/BV1zv41177JQ?from=search&seid=3407649266167868195&spm_id_from=333.337.0.0)
 

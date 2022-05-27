@@ -132,6 +132,6 @@ http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
  - 哈佛大学的Whitesides老师从写提纲的角度切入讲解如何撰写学术论文。[链接](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.200400767)
  - 如何让摘要吸引人？Nature论文摘要模板值得收藏。[链接](https://zhuanlan.zhihu.com/p/158574876)
  - 支付宝研究员王益的建议：“学好语文，才能写好代码”（很多观点对写论文同样适用）[链接](https://zhuanlan.zhihu.com/p/157243326)
-
+ - Academic PhaseBank [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/Academic-Phrasebank-2021.pdf)
 ## 其他资源链接集合
  - [PaperWriting](https://github.com/wangdongdut/PaperWriting),一个别人的关于学术写作的资源收集

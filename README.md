@@ -30,7 +30,7 @@
    - 英文标题，实词首字母大写，虚词如（如of，in）首字母不需要大写
    
  - 边框、线条
-   如果是自己画的图，边框和线条
+   如果是自己画的图，边框和线条尽量保证粗细样式统一，并且保证打印效果。
    
  - 内容
    - 图片表格中是否有拼写错误，因为图表是最直接能看到的，存在错误很致命
@@ -135,3 +135,6 @@ http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
  - Academic PhaseBank [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/Academic-Phrasebank-2021.pdf)
 ## 其他资源链接集合
  - [PaperWriting](https://github.com/wangdongdut/PaperWriting),一个别人的关于学术写作的资源收集
+## 工具
+ - [phrasebank](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/)，常用的高级的英语论文写作的句式，比如如何对比相关工作、如何阐述实验结果。
+ - [grammarly](https://app.grammarly.com/), 一个免费的工具，能够对英语文本进行语法检查和修复，包括冠词误用等情况，建议自己写的英语使用这个工具检查一遍。

@@ -135,6 +135,14 @@ http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
  - Academic PhaseBank [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/Academic-Phrasebank-2021.pdf)
 ## 其他资源链接集合
  - [PaperWriting](https://github.com/wangdongdut/PaperWriting),一个别人的关于学术写作的资源收集
+ - [research-method](https://github.com/secdr/research-method), 围绕以下内容有收集各种资料讲义
+    - how to think: 如何寻找适合自己的论文观点或者议题；
+    - how to search: 有了议题了如何去查找已有的研究成果和相关工作；
+    - how to write: 如何去写一篇论文；
+    - how to submit: 论文写好了如何去投稿；
+    - how to revise: 收到修改意见后如何去回复和修改论文；
+    - how to use template: 写作中会遇到各种文档的套词；
+    - how to presentation: 会议论文如何做演讲。
 ## 工具
  - [phrasebank](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/)，常用的高级的英语论文写作的句式，比如如何对比相关工作、如何阐述实验结果。
  - [grammarly](https://app.grammarly.com/), 一个免费的工具，能够对英语文本进行语法检查和修复，包括冠词误用等情况，建议自己写的英语使用这个工具检查一遍。

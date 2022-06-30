@@ -152,3 +152,5 @@ http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 ## 工具
  - [phrasebank](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/)，常用的高级的英语论文写作的句式，比如如何对比相关工作、如何阐述实验结果。
  - [grammarly](https://app.grammarly.com/), 一个免费的工具，能够对英语文本进行语法检查和修复，包括冠词误用等情况，建议自己写的英语使用这个工具检查一遍。
+ - [writefull](https://www.writefull.com/), 一个免费的工具，能够对英语文本进行语法检查和修复和句式的建议，可以在word中使用。
+ - [wordvice.ai](https://wordvice.ai/cn),一个免费在线检查工具，能够对英语文本进行语法检查和修复

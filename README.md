@@ -92,7 +92,9 @@
  - 检查引用是否存在重复的参考文献的情况
 
 # 资源教程
-
+## Latex教程
+ - [latex-advice](https://github.com/dspinellis/latex-advice), Advice for writing LaTeX documents.
+ 
 ## 视频教程
 - 清华大学王翔宇论文写作公开课-工科论文写作
   讲得非常详细和基础，推荐新手阅读

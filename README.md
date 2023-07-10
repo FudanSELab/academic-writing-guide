@@ -154,7 +154,7 @@ http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
     - 写前必看：包含一些常见的错误，每个错误均配有例子，可以在动手写论文之前快速浏览。
     - 终稿必查：包含一些例子，方便快速定位是否自己的论文有错误。
     - 百家之言：整理了一些网络上公开的写作资源（并不完全，欢迎补充），方便大家系统学习。
-
+ - (CS writing Style )[http://www.cs.columbia.edu/~hgs/etc/writing-style.html]
 ## 工具
  - [phrasebank](https://www.phrasebank.manchester.ac.uk/compare-and-contrast/)，常用的高级的英语论文写作的句式，比如如何对比相关工作、如何阐述实验结果。
  - [grammarly](https://app.grammarly.com/), 一个免费的工具，能够对英语文本进行语法检查和修复，包括冠词误用等情况，建议自己写的英语使用这个工具检查一遍。

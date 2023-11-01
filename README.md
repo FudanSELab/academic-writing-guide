@@ -93,7 +93,8 @@
 
 ### 方法章节
  - 介绍方法应该是一个通用的技术框架，不要是一个具体的技术实现。比如下面：。50,100 不能写死在方法里面，要描述成一个通用的方法，可以写成n,m,k,这种可变参数，然后后面再说实际实现的时候取了50，100. 并且要加上原因。
-   ![Uploading image.png…]()
+![image](https://github.com/FudanSELab/academic-writing-guide/assets/10709391/4a1307a6-1b36-42fe-ab51-e6b5533514dc)
+
 
 
 ### 参考文献
